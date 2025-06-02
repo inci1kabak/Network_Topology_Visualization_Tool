@@ -1,6 +1,6 @@
-# Network_Topology_Visualization_Tool
+# Network Topology Visualization Tool :
 
-#### Kullanılan Araçlar ve Kütüphaneler
+#### Kullanılan Araçlar ve Kütüphaneler :
 Araç/Kütüphane	                              Açıklama
 Python 3.x	                              Ana programlama dili.
 argparse	                                Komut satırı argümanlarını almak için (standart kütüphane).
@@ -13,7 +13,7 @@ random	                                  Rastgele bağlantıların oluşturulmas
 #### Kurulum Ortamı Gereksinimleri:
 pip install pysnmp networkx matplotlib
 
-#### Çalışma Ortamı
+#### Çalışma Ortamı :
 VS Code (Visual Studio Code): Kodu yazmak ve çalıştırmak için kullanılan geliştirme ortamı.
 
 Komut satırı (Terminal / PowerShell): Python dosyasını çalıştırmak ve git işlemleri için kullanılan ortam.
@@ -21,7 +21,7 @@ Komut satırı (Terminal / PowerShell): Python dosyasını çalıştırmak ve gi
 Git & GitHub: Kodunuzu bir sürüm kontrol sistemiyle yönetmek ve GitHub’a yüklemek için.
 
 
-#### Gerçek Ortamda SNMP Kullanımı İçin Gerekenler
+#### Gerçek Ortamda SNMP Kullanımı İçin Gerekenler : 
 SNMP'den gerçek veri almak için, aşağıdakilere ihtiyaç vardır:
 
 SNMP aktif cihazlar (örneğin router, switch, server vb.).
